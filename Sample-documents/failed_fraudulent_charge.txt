@@ -1,0 +1,18 @@
+Razorpay Payment Receipt
+Merchant: TechKart India Pvt Ltd (M-1001)
+Transaction ID: pay_Xk9pLm3nQ7vRj
+Date: 2026-08-29 09:15:00 IST
+Amount: Rs. 45,000.00
+Card: **** **** **** 1234 (Mastercard)
+Customer: Unknown User
+Email: new.user@mail.com
+IP Address: 203.0.113.5 (Singapore)
+Billing Country: India
+Shipping Country: Singapore
+3D Secure: Not Verified
+AVS Result: Mismatch
+CVV Result: Mismatch
+Prior Orders: 0
+First Seen: 1 day ago
+Delivery Status: Not Shipped
+Tracking Number: N/A

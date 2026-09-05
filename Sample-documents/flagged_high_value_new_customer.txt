@@ -1,0 +1,16 @@
+Razorpay Payment Receipt
+Merchant: GadgetHub Electronics (M-1006)
+Transaction ID: pay_VwXyZ8nLmKp
+Date: 2026-08-24 14:50:00 IST
+Amount: Rs. 22,500.00
+Card: **** **** **** 5555 (Mastercard)
+Customer: Vikram Singh
+Email: vikram.s@rediffmail.com
+IP Address: 14.139.50.2
+3D Secure: Verified
+AVS Result: Match
+CVV Result: Match
+Prior Orders: 3
+First Seen: 90 days ago
+Delivery Status: Delivered on 2026-08-27
+Tracking Number: EKART-4478291

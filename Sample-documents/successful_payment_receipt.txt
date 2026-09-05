@@ -1,0 +1,18 @@
+Razorpay Payment Receipt
+Merchant: TechKart India Pvt Ltd
+Merchant ID: M-1001
+Transaction ID: pay_Kr8mX2nQ4vLj
+Date: 2026-08-28 14:32:11 IST
+Amount: Rs. 12,499.00
+Currency: INR
+Card: **** **** **** 4242 (Visa)
+Customer: Rahul Sharma
+Email: rahul.s@gmail.com
+IP Address: 103.21.45.92
+3D Secure: Verified (Verified by Visa)
+AVS Result: Match
+CVV Result: Match
+Delivery Status: Delivered on 2026-08-30
+Tracking Number: DTDC-TRK-8847291
+Delivery Signature: Yes
+Customer History: 7 prior orders, avg order value Rs. 8,200

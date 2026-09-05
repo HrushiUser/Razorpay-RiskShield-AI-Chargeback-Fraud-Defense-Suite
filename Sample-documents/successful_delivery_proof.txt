@@ -1,0 +1,14 @@
+Delivery Proof Document — Razorpay Dispute Evidence
+Transaction ID: pay_Lm2nQ8vRjKp
+Merchant: MediLife Pharmacy (M-1003)
+Customer: Priya Patel
+Delivery Partner: BlueDart
+Tracking Number: BLUEDART-9923456
+Delivery Date: 2026-08-25
+Delivery Time: 15:45 IST
+Recipient Signature: Present (scanned)
+Delivery Address: Mumbai, Maharashtra, India 400051
+Proof of Delivery: Confirmed
+Photographic Evidence: Captured at doorstep
+3D Secure: Verified
+Payment Amount: Rs. 1,500.00

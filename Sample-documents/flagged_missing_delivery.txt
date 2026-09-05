@@ -1,0 +1,16 @@
+Razorpay Payment Receipt
+Merchant: UrbanThreads Apparel (M-1005)
+Transaction ID: pay_QvLjKp9mX2n
+Date: 2026-08-26 11:20:00 IST
+Amount: Rs. 3,200.00
+Card: **** **** **** 4321 (Visa)
+Customer: Arun Kumar
+Email: arun.k@outlook.com
+IP Address: 157.50.10.85
+3D Secure: Verified
+AVS Result: Match
+CVV Result: Match
+Prior Orders: 5
+Delivery Status: Not Available
+Tracking Number: N/A
+Delivery Signature: N/A

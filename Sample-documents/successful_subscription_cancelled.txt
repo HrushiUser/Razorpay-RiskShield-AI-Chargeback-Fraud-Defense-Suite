@@ -1,0 +1,13 @@
+Razorpay Dispute Evidence — Subscription Cancellation
+Merchant: CloudHost Solutions (M-1004)
+Transaction ID: pay_MnOpQr1sTuVw
+Customer: Anita Desai (anita.d@gmail.com)
+Subscription ID: sub_annual_plan_2025
+Cancellation Date: 2026-08-10
+Refund Initiated: 2026-08-12
+Refund Amount: Rs. 2,200.00
+Refund Reference: rfd_8JkL2mNp
+3D Secure: Verified
+Prior Orders: 20
+Account Status: Closed
+Cancellation Confirmation Email: Sent on 2026-08-10

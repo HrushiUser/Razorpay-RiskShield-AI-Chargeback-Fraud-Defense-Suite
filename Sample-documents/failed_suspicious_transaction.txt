@@ -1,0 +1,19 @@
+Razorpay Payment Receipt
+Merchant: GadgetHub Electronics (M-1006)
+Transaction ID: pay_GhIjKl0mNoPq
+Date: 2026-08-11 01:00:00 IST
+Amount: Rs. 42,000.00
+Card: **** **** **** 3210 (Visa)
+Customer: Quick Order
+Email: quick.order@sharklasers.com
+IP Address: 23.129.64.10 (Brazil)
+Billing Country: India
+Shipping Country: Brazil
+3D Secure: Not Verified
+AVS Result: Mismatch
+CVV Result: Mismatch
+Prior Orders: 0
+First Seen: 1 day ago
+Delivery Status: Not Shipped
+Tracking Number: N/A
+Device Fingerprint: New device, no prior history
