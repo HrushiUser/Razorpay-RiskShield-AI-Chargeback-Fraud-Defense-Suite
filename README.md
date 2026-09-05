@@ -4,7 +4,7 @@
 >
 > *Stop the merchant losing money to fraud, returns and chargebacks.*
 
-> > **Live Demo:** https://razorpay-riskshield-c6iq.bolt.host
+> > **Live Demo:** [https://razorpay-riskshield-c6iq.bolt.host]
 
 RiskShield AI is a production-ready, full-stack chargeback defense platform that detects fraud, scores dispute risk, generates evidence packages, and produces measured precision/recall benchmarks — all with a strict defense-only posture.
 
